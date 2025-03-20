@@ -1,3 +1,4 @@
+https://foresttailwind.netlify.app/
 
 <h1>Sobre 🌳 </h1>
 <p>Concluí meu primeiro projeto utilizando Tailwind CSS, um site abrangente que me permitiu explorar a vasta gama de utilitários e a flexibilidade deste framework. O Tailwind se destaca pela sua capacidade de personalização, oferecendo controle granular sobre paletas de cores, dimensões e layout, garantindo um design consistente e adaptável.
